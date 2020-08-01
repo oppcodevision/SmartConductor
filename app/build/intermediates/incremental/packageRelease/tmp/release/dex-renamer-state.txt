@@ -1,0 +1,4 @@
+#Mon Jul 27 22:59:07 IST 2020
+base.0=D\:\\Total Projects\\ConductorMitra\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

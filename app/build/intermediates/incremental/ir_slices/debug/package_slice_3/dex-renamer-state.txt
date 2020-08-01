@@ -1,0 +1,4 @@
+#Mon Jul 27 17:07:34 IST 2020
+base.0=D\:\\Total Projects\\ConductorMitra\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Check_TicketHome">
+
+    <ImageView
+        android:id="@+id/scanIconImage"
+        android:src="@drawable/qr_code_mobile"
+        android:layout_marginTop="120dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#f15f11"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/scanIconImage"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:text="Check Ticket"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_below="@id/text1"
+        android:textColor="#1F1D1D"
+        android:layout_marginTop="14dp"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:text="Scan the QR Code which is printed\n inside the ticket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

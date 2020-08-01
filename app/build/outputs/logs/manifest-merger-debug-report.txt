@@ -1,0 +1,319 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1b6bd6709a8813873035cdf36ded1fc6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a33b61d6f88c297a1a46719cc9e06e8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\80ccd76d023e55d515937b8934cfff71\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\circleimageview-3.1.0.aar\605bebcb35903637daf992d73acaa347\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ec9b4b87d2929d59e0f130ddbc06b38e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b0f7cd38509747e21311ab40564a4fbf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\8bd13c9bd3d24d1d3e568b525a81aa2c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\740396847144efe6afb9dfe2349fb1a8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\4ccf7c00bde61047be882e5e7011f80b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b2a06f2292a19b4ff6ca10e93d7130fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\aaf9d65183ec9ff4a03e83b1e3a2bc97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f5def6f19709fe308a4ef5c38e8aa423\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9de56e4a8f21d74e0fcc3ebc351dad40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\851313394a4b13a2e3e37423b0b14d64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\308cf956e8af4cfe0780a669b41143e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\64cae3daa459ea05ee2bbc95d8db9665\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\599c5554888b363cc18fd5539f46cdde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6bb53515c64704108dc42b2caa3e1ce4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\84417d9fccfac6f72c96a54f485bd73c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\65b17e1b9100ff44efbcf757162a4a5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ffe56e6480961d632211add0509734a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ab3c922808d8ce215adc67bcdc610d8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3014dac780060e6d4ba5b0d4be676a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4ce6b0d2c747d17d491df06407c20453\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21b22749e41e0284bf2f9a843961adcd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac6c4550e380e46b22c3bea120df2f2a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39655bfe8bd4ae79507e4fdc166f4ef3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fd04c3fce34088742456b8b35c374f05\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\043f940c48f89978d778f133a5db1fc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\de02db23751794cd9daa6ce91349e51e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b177ec0f6dcd261e3bfdaa504ca1111d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6e462268c946ac3baa7f44b67282beac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b97eb684ba3a8e771e1f6e852d11b851\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e9267ba306f16ebc8200329f2d6812b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\41b5a98623451585828fe834f3f07843\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8bca649639295d67283fd82d68f1b5fe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fc422624486444f215c101a3a4c7cf1c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#com.example.conductormitra.permission.MAPS_RECEIVE
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:7:5-89
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:7:22-87
+application
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:11:5-47:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1b6bd6709a8813873035cdf36ded1fc6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1b6bd6709a8813873035cdf36ded1fc6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\80ccd76d023e55d515937b8934cfff71\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\80ccd76d023e55d515937b8934cfff71\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\circleimageview-3.1.0.aar\605bebcb35903637daf992d73acaa347\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\circleimageview-3.1.0.aar\605bebcb35903637daf992d73acaa347\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b0f7cd38509747e21311ab40564a4fbf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b0f7cd38509747e21311ab40564a4fbf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\8bd13c9bd3d24d1d3e568b525a81aa2c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\8bd13c9bd3d24d1d3e568b525a81aa2c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\740396847144efe6afb9dfe2349fb1a8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\740396847144efe6afb9dfe2349fb1a8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\4ccf7c00bde61047be882e5e7011f80b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\4ccf7c00bde61047be882e5e7011f80b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21b22749e41e0284bf2f9a843961adcd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21b22749e41e0284bf2f9a843961adcd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac6c4550e380e46b22c3bea120df2f2a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac6c4550e380e46b22c3bea120df2f2a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39655bfe8bd4ae79507e4fdc166f4ef3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39655bfe8bd4ae79507e4fdc166f4ef3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac6c4550e380e46b22c3bea120df2f2a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:19:9-22:21
+	android:value
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:21:13-68
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:20:13-58
+activity#com.example.conductormitra.CalcuDemo
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:25:19-44
+activity#com.example.conductormitra.EmergencyHelp
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:28:19-48
+activity#com.example.conductormitra.ContactUs
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:29:9-47
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:29:19-44
+activity#com.example.conductormitra.TodayPassanger
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:30:19-49
+activity#com.example.conductormitra.LiveLocation
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:31:19-47
+activity#com.example.conductormitra.CheckListActivity
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:32:9-55
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:32:19-52
+activity#com.example.conductormitra.ProfileActivity
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:33:19-50
+activity#com.example.conductormitra.CalculatorActivity
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:34:9-56
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:34:19-53
+activity#com.example.conductormitra.Check_TicketHome
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:35:9-54
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:35:19-51
+activity#com.example.conductormitra.HomeScreen
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:36:9-48
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:36:19-45
+activity#com.example.conductormitra.LoginActivity
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:37:9-51
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:37:19-48
+activity#com.example.conductormitra.MainActivity
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:theme
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:39:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml:44:27-74
+uses-sdk
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1b6bd6709a8813873035cdf36ded1fc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1b6bd6709a8813873035cdf36ded1fc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a33b61d6f88c297a1a46719cc9e06e8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a33b61d6f88c297a1a46719cc9e06e8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\80ccd76d023e55d515937b8934cfff71\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\80ccd76d023e55d515937b8934cfff71\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\circleimageview-3.1.0.aar\605bebcb35903637daf992d73acaa347\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\circleimageview-3.1.0.aar\605bebcb35903637daf992d73acaa347\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ec9b4b87d2929d59e0f130ddbc06b38e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ec9b4b87d2929d59e0f130ddbc06b38e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b0f7cd38509747e21311ab40564a4fbf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b0f7cd38509747e21311ab40564a4fbf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\8bd13c9bd3d24d1d3e568b525a81aa2c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\8bd13c9bd3d24d1d3e568b525a81aa2c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\740396847144efe6afb9dfe2349fb1a8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\740396847144efe6afb9dfe2349fb1a8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\4ccf7c00bde61047be882e5e7011f80b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\4ccf7c00bde61047be882e5e7011f80b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b2a06f2292a19b4ff6ca10e93d7130fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b2a06f2292a19b4ff6ca10e93d7130fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\aaf9d65183ec9ff4a03e83b1e3a2bc97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\aaf9d65183ec9ff4a03e83b1e3a2bc97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f5def6f19709fe308a4ef5c38e8aa423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f5def6f19709fe308a4ef5c38e8aa423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9de56e4a8f21d74e0fcc3ebc351dad40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9de56e4a8f21d74e0fcc3ebc351dad40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\851313394a4b13a2e3e37423b0b14d64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\851313394a4b13a2e3e37423b0b14d64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\308cf956e8af4cfe0780a669b41143e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\308cf956e8af4cfe0780a669b41143e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\64cae3daa459ea05ee2bbc95d8db9665\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\64cae3daa459ea05ee2bbc95d8db9665\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\599c5554888b363cc18fd5539f46cdde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\599c5554888b363cc18fd5539f46cdde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6bb53515c64704108dc42b2caa3e1ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6bb53515c64704108dc42b2caa3e1ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\84417d9fccfac6f72c96a54f485bd73c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\84417d9fccfac6f72c96a54f485bd73c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\65b17e1b9100ff44efbcf757162a4a5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\65b17e1b9100ff44efbcf757162a4a5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ffe56e6480961d632211add0509734a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ffe56e6480961d632211add0509734a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ab3c922808d8ce215adc67bcdc610d8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ab3c922808d8ce215adc67bcdc610d8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3014dac780060e6d4ba5b0d4be676a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3014dac780060e6d4ba5b0d4be676a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4ce6b0d2c747d17d491df06407c20453\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4ce6b0d2c747d17d491df06407c20453\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21b22749e41e0284bf2f9a843961adcd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21b22749e41e0284bf2f9a843961adcd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac6c4550e380e46b22c3bea120df2f2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac6c4550e380e46b22c3bea120df2f2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39655bfe8bd4ae79507e4fdc166f4ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39655bfe8bd4ae79507e4fdc166f4ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fd04c3fce34088742456b8b35c374f05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fd04c3fce34088742456b8b35c374f05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\043f940c48f89978d778f133a5db1fc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\043f940c48f89978d778f133a5db1fc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\de02db23751794cd9daa6ce91349e51e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\de02db23751794cd9daa6ce91349e51e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b177ec0f6dcd261e3bfdaa504ca1111d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b177ec0f6dcd261e3bfdaa504ca1111d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6e462268c946ac3baa7f44b67282beac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6e462268c946ac3baa7f44b67282beac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b97eb684ba3a8e771e1f6e852d11b851\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b97eb684ba3a8e771e1f6e852d11b851\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e9267ba306f16ebc8200329f2d6812b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e9267ba306f16ebc8200329f2d6812b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\41b5a98623451585828fe834f3f07843\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\41b5a98623451585828fe834f3f07843\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8bca649639295d67283fd82d68f1b5fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8bca649639295d67283fd82d68f1b5fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fc422624486444f215c101a3a4c7cf1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fc422624486444f215c101a3a4c7cf1c\AndroidManifest.xml:20:5-44
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+		ADDED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Total Projects\ConductorMitra\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\bc0294130e961a98c5c3f3e37e10d4f7\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c0b4ab684585702f8cc6ae2e9160c94b\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\4ccf7c00bde61047be882e5e7011f80b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\4ccf7c00bde61047be882e5e7011f80b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\4ccf7c00bde61047be882e5e7011f80b\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21b22749e41e0284bf2f9a843961adcd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21b22749e41e0284bf2f9a843961adcd\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Astro Boy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\17648b637729a89da2d337c35b51f9aa\AndroidManifest.xml:27:13-51
